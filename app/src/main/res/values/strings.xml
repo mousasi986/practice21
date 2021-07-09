@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practice 2021</string>
+    <string name="todo">TODO</string>
+    <string name="textViewName"/>
+    <string name="textViewMessage"/>
+    <string name="string_click_to_load">Hello</string>
+    <string name="string_getting_json_title">jsonTitle</string>
+    <string name="string_getting_json_message">jsonMessage</string>
+    <string name="string_wrong">ошибка</string>
+    <string name="connection_wrong">Проверьте соединение с интернетом</string>
+
+</resources>
